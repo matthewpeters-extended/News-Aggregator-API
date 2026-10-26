@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {"id": "techcrunch", "name": "TechCrunch"},
+      "author": "Priya Nair",
+      "title": "Startup Raises $40M to Build Faster Database Indexes",
+      "description": "A database infrastructure startup closed a Series B to speed up query performance for large-scale analytics workloads.",
+      "url": "https://example-techcrunch.test/articles/db-index-series-b",
+      "urlToImage": "https://example-techcrunch.test/images/db-index.jpg",
+      "publishedAt": "2026-10-10T14:05:00Z",
+      "content": "The company said its indexing engine cuts query latency by up to 60% for columnar workloads...",
+      "category": "technology"
+    },
+    {
+      "source": {"id": "bbc-news", "name": "BBC News"},
+      "author": "Daniel Osei",
+      "title": "Central Bank Holds Interest Rates Steady Amid Inflation Concerns",
+      "description": "Policymakers opted to pause further hikes, citing mixed signals in recent employment data.",
+      "url": "https://example-bbc.test/articles/central-bank-holds-rates",
+      "urlToImage": "https://example-bbc.test/images/central-bank.jpg",
+      "publishedAt": "2026-10-12T09:30:00Z",
+      "content": "The decision was widely expected after last month's cooler-than-forecast inflation print...",
+      "category": "business"
+    },
+    {
+      "source": {"id": "reuters", "name": "Reuters"},
+      "author": "Mariana Costa",
+      "title": "Global Shipping Costs Rise as Red Sea Disruptions Continue",
+      "description": "Freight rates climbed again this week as carriers continue rerouting around the Cape of Good Hope.",
+      "url": "https://example-reuters.test/articles/shipping-costs-rise",
+      "urlToImage": "https://example-reuters.test/images/shipping.jpg",
+      "publishedAt": "2026-10-14T11:15:00Z",
+      "content": "Analysts warned the longer routes could keep consumer goods prices elevated into next quarter...",
+      "category": "business"
+    },
+    {
+      "source": {"id": "techcrunch", "name": "TechCrunch"},
+      "author": "Priya Nair",
+      "title": "Open Source Framework Hits 1.0 After Three Years in Beta",
+      "description": "The maintainers say the stable release focuses on plugin compatibility and long-term support guarantees.",
+      "url": "https://example-techcrunch.test/articles/framework-1-0-release",
+      "urlToImage": "https://example-techcrunch.test/images/framework.jpg",
+      "publishedAt": "2026-10-16T16:45:00Z",
+      "content": "Adoption has grown steadily since the first beta, with over 2,000 packages now built on top of it...",
+      "category": "technology"
+    },
+    {
+      "source": {"id": "bbc-news", "name": "BBC News"},
+      "author": "Grace Lindqvist",
+      "title": "Underdog Team Advances to Championship Final",
+      "description": "A last-minute goal sent the fourth-seed side through on away goals after a tense semi-final.",
+      "url": "https://example-bbc.test/articles/underdog-advances-final",
+      "urlToImage": "https://example-bbc.test/images/match.jpg",
+      "publishedAt": "2026-10-18T20:00:00Z",
+      "content": "It is the club's first final appearance in over a decade, and fans flooded the streets after the whistle...",
+      "category": "sports"
+    },
+    {
+      "source": {"id": "reuters", "name": "Reuters"},
+      "author": "Tomas Varela",
+      "title": "Researchers Report Breakthrough in Battery Recycling Process",
+      "description": "A new chemical process recovers over 95% of lithium from spent EV battery cells, a lab study found.",
+      "url": "https://example-reuters.test/articles/battery-recycling-breakthrough",
+      "urlToImage": "https://example-reuters.test/images/battery.jpg",
+      "publishedAt": "2026-10-20T08:20:00Z",
+      "content": "If scaled commercially, the process could sharply cut the cost of producing new battery cells...",
+      "category": "science"
+    }
+  ]
+}

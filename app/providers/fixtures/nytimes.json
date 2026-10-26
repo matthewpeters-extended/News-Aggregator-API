@@ -1,0 +1,67 @@
+{
+  "status": "OK",
+  "response": {
+    "docs": [
+      {
+        "_id": "nyt://article/coral-reef-decade-study",
+        "headline": {"main": "Climate Scientists Publish Decade-Long Study on Coral Reefs"},
+        "abstract": "The study tracked recovery rates across 40 reef sites following repeated bleaching events.",
+        "web_url": "https://example-nytimes.test/2026/10/09/science/coral-reef-decade-study.html",
+        "pub_date": "2026-10-09T11:00:00+0000",
+        "section_name": "Science",
+        "multimedia": [{"url": "images/2026/10/09/science/coral.jpg", "subtype": "thumbnail"}],
+        "byline": {"original": "By Linh Pham"}
+      },
+      {
+        "_id": "nyt://article/app-store-antitrust-scrutiny",
+        "headline": {"main": "Tech Giant Faces Antitrust Scrutiny Over App Store Rules"},
+        "abstract": "Regulators are examining whether mandatory in-app payment rules disadvantage smaller developers.",
+        "web_url": "https://example-nytimes.test/2026/10/11/technology/app-store-antitrust-scrutiny.html",
+        "pub_date": "2026-10-11T09:30:00+0000",
+        "section_name": "Technology",
+        "multimedia": [{"url": "images/2026/10/11/technology/appstore.jpg", "subtype": "thumbnail"}],
+        "byline": {"original": "By Marcus Webb"}
+      },
+      {
+        "_id": "nyt://article/startup-layoffs-venture-funding",
+        "headline": {"main": "Startup Layoffs Continue as Venture Funding Tightens"},
+        "abstract": "Later-stage companies are cutting headcount as investors push harder for a path to profitability.",
+        "web_url": "https://example-nytimes.test/2026/10/13/business/startup-layoffs-venture-funding.html",
+        "pub_date": "2026-10-13T14:15:00+0000",
+        "section_name": "Business",
+        "multimedia": [{"url": "images/2026/10/13/business/layoffs.jpg", "subtype": "thumbnail"}],
+        "byline": {"original": "By Sofia Marchetti"}
+      },
+      {
+        "_id": "nyt://article/infrastructure-spending-bill-push",
+        "headline": {"main": "Lawmakers Push for New Infrastructure Spending Bill"},
+        "abstract": "The proposal would direct funding toward grid modernization and broadband expansion in rural areas.",
+        "web_url": "https://example-nytimes.test/2026/10/15/us/politics/infrastructure-spending-bill-push.html",
+        "pub_date": "2026-10-15T17:40:00+0000",
+        "section_name": "Politics",
+        "multimedia": [{"url": "images/2026/10/15/politics/infrastructure.jpg", "subtype": "thumbnail"}],
+        "byline": {"original": "By Marcus Webb"}
+      },
+      {
+        "_id": "nyt://article/veteran-coach-retirement-championship",
+        "headline": {"main": "Veteran Coach Announces Retirement After Championship Run"},
+        "abstract": "She leaves the sidelines with three titles in a twenty-two year career.",
+        "web_url": "https://example-nytimes.test/2026/10/17/sports/veteran-coach-retirement-championship.html",
+        "pub_date": "2026-10-17T19:05:00+0000",
+        "section_name": "Sports",
+        "multimedia": [{"url": "images/2026/10/17/sports/coach.jpg", "subtype": "thumbnail"}],
+        "byline": {"original": "By Dana Okoro"}
+      },
+      {
+        "_id": "nyt://article/telescope-distant-galaxy-images",
+        "headline": {"main": "New Telescope Captures Clearest Images Yet of Distant Galaxy"},
+        "abstract": "The images reveal structural detail in a galaxy over 10 billion light-years away.",
+        "web_url": "https://example-nytimes.test/2026/10/19/science/telescope-distant-galaxy-images.html",
+        "pub_date": "2026-10-19T08:50:00+0000",
+        "section_name": "Science",
+        "multimedia": [{"url": "images/2026/10/19/science/telescope.jpg", "subtype": "thumbnail"}],
+        "byline": {"original": "By Linh Pham"}
+      }
+    ]
+  }
+}

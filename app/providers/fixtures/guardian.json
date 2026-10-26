@@ -1,0 +1,86 @@
+{
+  "response": {
+    "status": "ok",
+    "total": 6,
+    "results": [
+      {
+        "id": "technology/2026/oct/11/ai-training-data-inquiry",
+        "sectionName": "Technology",
+        "webPublicationDate": "2026-10-11T10:00:00Z",
+        "webTitle": "Regulators Open Inquiry into AI Training Data Practices",
+        "webUrl": "https://example-guardian.test/technology/2026/oct/11/ai-training-data-inquiry",
+        "fields": {
+          "trailText": "The inquiry will examine how leading AI labs source and license the data used to train large models.",
+          "body": "The probe follows a string of complaints from publishers and artists over unlicensed use of copyrighted material...",
+          "thumbnail": "https://example-guardian.test/images/ai-inquiry.jpg",
+          "byline": "Alex Whitfield"
+        }
+      },
+      {
+        "id": "politics/2026/oct/13/digital-privacy-bill-debate",
+        "sectionName": "Politics",
+        "webPublicationDate": "2026-10-13T13:20:00Z",
+        "webTitle": "Parliament Debates New Digital Privacy Bill",
+        "webUrl": "https://example-guardian.test/politics/2026/oct/13/digital-privacy-bill-debate",
+        "fields": {
+          "trailText": "The bill would introduce stricter rules on data brokers and third-party ad tracking.",
+          "body": "Opposition lawmakers argued the enforcement provisions were too weak to deter large platforms...",
+          "thumbnail": "https://example-guardian.test/images/privacy-bill.jpg",
+          "byline": "Noor Farah"
+        }
+      },
+      {
+        "id": "science/2026/oct/15/unusual-signal-star-system",
+        "sectionName": "Science",
+        "webPublicationDate": "2026-10-15T07:45:00Z",
+        "webTitle": "Astronomers Detect Unusual Signal from Nearby Star System",
+        "webUrl": "https://example-guardian.test/science/2026/oct/15/unusual-signal-star-system",
+        "fields": {
+          "trailText": "The repeating radio pulse does not match any previously catalogued pulsar behavior.",
+          "body": "Researchers caution the signal is most likely a natural phenomenon, but follow-up observations are planned...",
+          "thumbnail": "https://example-guardian.test/images/signal.jpg",
+          "byline": "Wei-Lun Chao"
+        }
+      },
+      {
+        "id": "business/2026/oct/17/retailers-brace-slow-holiday",
+        "sectionName": "Business",
+        "webPublicationDate": "2026-10-17T12:10:00Z",
+        "webTitle": "Retailers Brace for Slower Holiday Spending",
+        "webUrl": "https://example-guardian.test/business/2026/oct/17/retailers-brace-slow-holiday",
+        "fields": {
+          "trailText": "Consumer surveys point to tighter budgets this season compared with last year.",
+          "body": "Several major chains have already trimmed seasonal hiring plans in response...",
+          "thumbnail": "https://example-guardian.test/images/retail.jpg",
+          "byline": "Helena Brandt"
+        }
+      },
+      {
+        "id": "sport/2026/oct/19/marathon-record-falls",
+        "sectionName": "Sport",
+        "webPublicationDate": "2026-10-19T06:30:00Z",
+        "webTitle": "Marathon Record Falls in Surprise Morning Run",
+        "webUrl": "https://example-guardian.test/sport/2026/oct/19/marathon-record-falls",
+        "fields": {
+          "trailText": "Cool weather and a fast course combined for an unexpected record attempt.",
+          "body": "The runner said she had not planned to push for the record until she saw her splits at the halfway mark...",
+          "thumbnail": "https://example-guardian.test/images/marathon.jpg",
+          "byline": "Oliver Kane"
+        }
+      },
+      {
+        "id": "technology/2026/oct/21/next-gen-processor-architecture",
+        "sectionName": "Technology",
+        "webPublicationDate": "2026-10-21T15:00:00Z",
+        "webTitle": "Chipmaker Unveils Next-Generation Processor Architecture",
+        "webUrl": "https://example-guardian.test/technology/2026/oct/21/next-gen-processor-architecture",
+        "fields": {
+          "trailText": "The new architecture promises large efficiency gains for on-device AI workloads.",
+          "body": "Early benchmarks shared with select partners show double-digit improvements in performance per watt...",
+          "thumbnail": "https://example-guardian.test/images/chip.jpg",
+          "byline": "Alex Whitfield"
+        }
+      }
+    ]
+  }
+}
